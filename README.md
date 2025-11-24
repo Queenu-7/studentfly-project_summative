@@ -176,7 +176,8 @@ This configuration successfully directs users accessing the application via: htt
 
 **** LINKS FOR WEBSITE AND DEMO VIDEO ****
 -Website: https://www.ruthqueen.tech/#
--Demo Video: 
+-Demo Video (filmed using Loom): https://www.loom.com/share/a9cf151b62ef43078b87f0b070bec9c7
 
 
     
+
