@@ -24,7 +24,7 @@ def load_env ():
     return env
 
 ENV = load_env()
-port = 5000
+port = 5001
 
 class StudentFlyHandler(http.server.SimpleHTTPRequestHandler):
     def set_cors_headers(self):
