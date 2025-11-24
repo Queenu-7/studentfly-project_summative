@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Fetch flights from backend API
     async function fetchFlightsFromBackend(origin, destination, departureDate, returnDate, passengers, budget) {
         try {
-            const url =`http://localhost:5000/api/flights?origin=${origin}&destination=${destination}&date=${departureDate}`;
+            const url =`http://localhost:5001/api/flights?origin=${origin}&destination=${destination}&date=${departureDate}`;
             console.log('🛰 Calling backend:' + url);
 
             const response = await fetch(url);
